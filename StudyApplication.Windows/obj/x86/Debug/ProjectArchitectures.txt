@@ -1,0 +1,1 @@
+d:\mod\documents\visual studio 2013\Projects\StudyApplication\StudyApplication\StudyApplication.Windows\StudyApplication.Windows.csproj;x86

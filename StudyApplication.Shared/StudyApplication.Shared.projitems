@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>df89ff47-5ee2-4462-b25c-3ad395f6f0f7</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>StudyApplication</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="$(MSBuildThisFileDirectory)App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="$(MSBuildThisFileDirectory)App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)DemoPage.xaml.cs">
+      <DependentUpon>DemoPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)model\Accounting.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)model\Business.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)model\English.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)model\Geography.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)model\History.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)model\Life.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)model\Maths.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)model\Physics.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)QuestionsPage.xaml.cs">
+      <DependentUpon>QuestionsPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)viewModels\InsertModule.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)viewModels\SubjectsViewModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)viewModels\SubjectViewModel.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="$(MSBuildThisFileDirectory)Assets\accounting.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\background.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\book page.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\book-and-mouse.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\book3.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\busines.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\english.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\grade.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Logo.scale-240.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\many.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\maths.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\purple.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\SmallLogo.scale-240.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\SplashScreen.scale-240.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Square71x71Logo.scale-240.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\StoreLogo.scale-240.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\WideLogo.scale-240.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Page Include="$(MSBuildThisFileDirectory)DemoPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="$(MSBuildThisFileDirectory)QuestionsPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+</Project>

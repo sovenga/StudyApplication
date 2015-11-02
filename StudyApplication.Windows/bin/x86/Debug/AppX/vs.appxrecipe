@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MOBILE-LAB06</Machine>
+    <WindowsUser>Mod</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>970b6c0c-07c6-4f2b-a71d-266b802a6244</PackageIdentityName>
+    <IntermediateOutputPath>d:\mod\documents\visual studio 2013\Projects\StudyApplication\StudyApplication\StudyApplication.Windows\obj\x86\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>3FD51430E4E46CE8A323B5C10C675526C9943107C42B7E81CEBDD617F7B5E9B5</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>970b6c0c-07c6-4f2b-a71d-266b802a6244_1.0.0.0_x86__4xwyns1sn5zry</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>970b6c0c-07c6-4f2b-a71d-266b802a6244_4xwyns1sn5zry!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>970b6c0c-07c6-4f2b-a71d-266b802a6244</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Mod</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="d:\mod\documents\visual studio 2013\Projects\StudyApplication\StudyApplication\StudyApplication.Windows\bin\x86\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-11-02T08:56:28.172</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="d:\mod\documents\visual studio 2013\Projects\StudyApplication\StudyApplication\StudyApplication.Windows\bin\x86\Debug\StudyApplication.Windows.exe">
+      <PackagePath>StudyApplication.Windows.exe</PackagePath>
+      <Modified>2015-11-02T08:56:27.153</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\SQLite.WinRT81\3.8.10.2\Redist\Debug\x86\sqlite3.dll">
+      <PackagePath>sqlite3.dll</PackagePath>
+      <Modified>2015-05-27T09:20:37.697</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="d:\mod\documents\visual studio 2013\Projects\StudyApplication\StudyApplication\StudyApplication.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="d:\mod\documents\visual studio 2013\Projects\StudyApplication\StudyApplication\StudyApplication.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="d:\mod\documents\visual studio 2013\Projects\StudyApplication\StudyApplication\StudyApplication.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="d:\mod\documents\visual studio 2013\Projects\StudyApplication\StudyApplication\StudyApplication.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="d:\mod\documents\visual studio 2013\Projects\StudyApplication\StudyApplication\StudyApplication.Shared\Assets\accounting.png">
+      <PackagePath>Assets\accounting.png</PackagePath>
+      <Modified>2015-09-08T09:13:27.003</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="d:\mod\documents\visual studio 2013\Projects\StudyApplication\StudyApplication\StudyApplication.Shared\Assets\busines.png">
+      <PackagePath>Assets\busines.png</PackagePath>
+      <Modified>2015-09-08T08:59:51.260</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="d:\mod\documents\visual studio 2013\Projects\StudyApplication\StudyApplication\StudyApplication.Shared\Assets\english.png">
+      <PackagePath>Assets\english.png</PackagePath>
+      <Modified>2015-09-08T08:50:48.197</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="d:\mod\documents\visual studio 2013\Projects\StudyApplication\StudyApplication\StudyApplication.Shared\Assets\grade.png">
+      <PackagePath>Assets\grade.png</PackagePath>
+      <Modified>2015-09-08T09:03:34.784</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="d:\mod\documents\visual studio 2013\Projects\StudyApplication\StudyApplication\StudyApplication.Shared\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="d:\mod\documents\visual studio 2013\Projects\StudyApplication\StudyApplication\StudyApplication.Shared\Assets\maths.png">
+      <PackagePath>Assets\maths.png</PackagePath>
+      <Modified>2015-09-08T08:56:01.844</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="d:\mod\documents\visual studio 2013\Projects\StudyApplication\StudyApplication\StudyApplication.Shared\Assets\purple.png">
+      <PackagePath>Assets\purple.png</PackagePath>
+      <Modified>2015-09-24T19:16:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="d:\mod\documents\visual studio 2013\Projects\StudyApplication\StudyApplication\StudyApplication.Shared\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="d:\mod\documents\visual studio 2013\Projects\StudyApplication\StudyApplication\StudyApplication.Shared\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="d:\mod\documents\visual studio 2013\Projects\StudyApplication\StudyApplication\StudyApplication.Shared\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="d:\mod\documents\visual studio 2013\Projects\StudyApplication\StudyApplication\StudyApplication.Shared\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="d:\mod\documents\visual studio 2013\Projects\StudyApplication\StudyApplication\StudyApplication.Shared\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="d:\mod\documents\visual studio 2013\Projects\StudyApplication\StudyApplication\StudyApplication.Shared\Assets\background.jpg">
+      <PackagePath>Assets\background.jpg</PackagePath>
+      <Modified>2015-09-08T09:11:04.334</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="d:\mod\documents\visual studio 2013\Projects\StudyApplication\StudyApplication\StudyApplication.Shared\Assets\book page.jpg">
+      <PackagePath>Assets\book page.jpg</PackagePath>
+      <Modified>2015-09-08T07:52:20.795</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="d:\mod\documents\visual studio 2013\Projects\StudyApplication\StudyApplication\StudyApplication.Shared\Assets\book-and-mouse.jpg">
+      <PackagePath>Assets\book-and-mouse.jpg</PackagePath>
+      <Modified>2015-09-08T08:10:40.298</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="d:\mod\documents\visual studio 2013\Projects\StudyApplication\StudyApplication\StudyApplication.Shared\Assets\book3.jpg">
+      <PackagePath>Assets\book3.jpg</PackagePath>
+      <Modified>2015-09-08T08:16:00.943</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="d:\mod\documents\visual studio 2013\Projects\StudyApplication\StudyApplication\StudyApplication.Shared\Assets\many.jpg">
+      <PackagePath>Assets\many.jpg</PackagePath>
+      <Modified>2015-09-08T08:36:06.543</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="d:\mod\documents\visual studio 2013\Projects\StudyApplication\StudyApplication\StudyApplication.Windows\bin\x86\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-11-02T08:56:26.293</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="d:\mod\documents\visual studio 2013\Projects\StudyApplication\StudyApplication\StudyApplication.Windows\bin\x86\Debug\DemoPage.xbf">
+      <PackagePath>DemoPage.xbf</PackagePath>
+      <Modified>2015-11-02T08:56:26.296</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="d:\mod\documents\visual studio 2013\Projects\StudyApplication\StudyApplication\StudyApplication.Windows\bin\x86\Debug\QuestionsPage.xbf">
+      <PackagePath>QuestionsPage.xbf</PackagePath>
+      <Modified>2015-11-02T08:56:26.299</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="d:\mod\documents\visual studio 2013\Projects\StudyApplication\StudyApplication\StudyApplication.Windows\bin\x86\Debug\StudyApplication.Windows.xr.xml">
+      <PackagePath>StudyApplication.Windows.xr.xml</PackagePath>
+      <Modified>2015-11-02T08:56:26.231</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="d:\mod\documents\visual studio 2013\Projects\StudyApplication\StudyApplication\StudyApplication.Windows\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-11-02T08:56:27.776</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
